@@ -1,2 +1,2 @@
-# Face_Detection_From_Image
-We built a Face detection system from an image.
+# Face-Recognition
+Just read How_to_Run.txt file. You will understand how to train and run the face recognition project.
